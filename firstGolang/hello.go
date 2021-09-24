@@ -1,4 +1,4 @@
-package main // 当前程序的包名
+pacage main // 当前程序的包名
 /*
 一行代码的引入方式
 import "fmt"
