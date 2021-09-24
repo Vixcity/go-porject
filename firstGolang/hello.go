@@ -11,6 +11,8 @@ import (
 )
 
 func main()  {//函数的左花括号一定要和函数在同一行
+	
 	fmt.Println("hello GO!")
 	time.Sleep(1 * time.Second)
+
 }
